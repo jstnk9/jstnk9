@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[478],{3995:function(t){t.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/threat-modeling","name":"threat modeling","count":4,"permalink":"/jstnk9/blog/tags/threat-modeling"}')}}]);

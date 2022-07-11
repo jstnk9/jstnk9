@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[8133],{1198:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/life-cycle","name":"life-cycle","count":1,"permalink":"/jstnk9/blog/tags/life-cycle"}')}}]);

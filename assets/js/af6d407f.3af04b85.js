@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[3761],{9224:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/cmf","name":"CMF","count":1,"permalink":"/jstnk9/blog/tags/cmf"}')}}]);
