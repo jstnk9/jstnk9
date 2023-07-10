@@ -1,7 +1,10 @@
 ### Hi there 👋
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Joseliyo_Jstnk)](https://twitter.com/Joseliyo_Jstnk)
+My name is Jose Luis, although everyone knows me as Joseliyo. I'm mainly focused in Cyber Threat Intelligence, but I love converting the intelligence in actionable information and detections. For that reason, I try to automate many tasks and create open source contributions in terms of scripts or other stuff.
 
-## [https://jstnk9.github.io/jstnk9/](https://jstnk9.github.io/jstnk9/)
+You can follow me on Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Joseliyo_Jstnk)](https://twitter.com/Joseliyo_Jstnk)
+Or see my blog where I used to publis my researchs and projects 
+
+## My blog [https://jstnk9.github.io/jstnk9/](https://jstnk9.github.io/jstnk9/)
 
 
 <!--
