@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[1756],{2948:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/research/tags","slug":"/jstnk9/research/tags/apt-c-36","name":"APT-C-36","count":1,"permalink":"/jstnk9/research/tags/apt-c-36"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[6411],{192:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/research/tags","slug":"/jstnk9/research/tags/windows-11","name":"windows 11","count":1,"permalink":"/jstnk9/research/tags/windows-11"}')}}]);

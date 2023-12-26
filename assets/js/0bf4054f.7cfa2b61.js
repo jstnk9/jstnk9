@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[7915],{4574:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/microsoft","name":"microsoft","count":1,"permalink":"/jstnk9/blog/tags/microsoft"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[7039],{2988:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/tiber-eu","name":"tiber-eu","count":3,"permalink":"/jstnk9/blog/tags/tiber-eu"}')}}]);

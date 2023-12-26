@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[2635],{7383:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/reversing","name":"reversing","count":1,"permalink":"/jstnk9/blog/tags/reversing"}')}}]);

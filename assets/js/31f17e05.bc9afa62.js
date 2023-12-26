@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[1179],{8589:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/blue-team","name":"blue team","count":4,"permalink":"/jstnk9/blog/tags/blue-team"}')}}]);

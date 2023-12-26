@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[3249],{4610:function(a){a.exports=JSON.parse('{"allTagsPath":"/jstnk9/malwareandhunting/tags","slug":"/jstnk9/malwareandhunting/tags/armenia","name":"armenia","count":1,"permalink":"/jstnk9/malwareandhunting/tags/armenia"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[7327],{8378:function(e){e.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/detection-engineering","name":"detection engineering","count":3,"permalink":"/jstnk9/blog/tags/detection-engineering"}')}}]);

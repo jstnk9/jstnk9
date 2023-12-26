@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[5862],{5115:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/misp","name":"MISP","count":3,"permalink":"/jstnk9/blog/tags/misp"}')}}]);
