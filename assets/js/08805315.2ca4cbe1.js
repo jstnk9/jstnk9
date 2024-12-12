@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[1720],{5097:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/research/tags","slug":"/jstnk9/research/tags/iran","name":"Iran","count":1,"permalink":"/jstnk9/research/tags/iran"}')}}]);

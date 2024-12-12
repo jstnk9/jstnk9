@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[5772],{769:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/virustotal","name":"virustotal","count":1,"permalink":"/jstnk9/blog/tags/virustotal"}')}}]);

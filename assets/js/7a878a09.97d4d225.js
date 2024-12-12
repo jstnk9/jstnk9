@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[3602],{2285:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/financial-services","name":"financial services","count":3,"permalink":"/jstnk9/blog/tags/financial-services"}')}}]);

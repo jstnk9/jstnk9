@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[4195],{3255:function(a){a.exports=JSON.parse('{"allTagsPath":"/jstnk9/research/tags","slug":"/jstnk9/research/tags/gaza","name":"Gaza","count":1,"permalink":"/jstnk9/research/tags/gaza"}')}}]);

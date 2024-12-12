@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[1178],{8392:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/cybersecurity","name":"cybersecurity","count":10,"permalink":"/jstnk9/blog/tags/cybersecurity"}')}}]);

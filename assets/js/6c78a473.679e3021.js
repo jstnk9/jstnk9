@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[4929],{2489:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/blog/tags","slug":"/jstnk9/blog/tags/sigma","name":"sigma","count":3,"permalink":"/jstnk9/blog/tags/sigma"}')}}]);

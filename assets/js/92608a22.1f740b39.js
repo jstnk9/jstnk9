@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[54],{5468:function(e){e.exports=JSON.parse('{"allTagsPath":"/jstnk9/research/tags","slug":"/jstnk9/research/tags/blind-eagle","name":"BlindEagle","count":1,"permalink":"/jstnk9/research/tags/blind-eagle"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[157],{42:function(n){n.exports=JSON.parse('{"allTagsPath":"/jstnk9/malwareandhunting/tags","slug":"/jstnk9/malwareandhunting/tags/cti","name":"CTI","count":4,"permalink":"/jstnk9/malwareandhunting/tags/cti"}')}}]);

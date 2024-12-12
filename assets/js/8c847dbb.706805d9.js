@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjstnk=self.webpackChunkjstnk||[]).push([[915],{2818:function(s){s.exports=JSON.parse('{"allTagsPath":"/jstnk9/research/tags","slug":"/jstnk9/research/tags/gob-rat","name":"GobRAT","count":1,"permalink":"/jstnk9/research/tags/gob-rat"}')}}]);
